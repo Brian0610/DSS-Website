@@ -1,327 +1,327 @@
 /*============================= MANUFACTURER LINKS =================================*/
 
 a.acorn:link {
-	background-image: url('../images/acorn_bw.png');	 
+	background-image: url('../images/acorn_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.acorn:hover {
-	background-image: url('../images/acorn_color.png');	 
+	background-image: url('../images/acorn_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.acorn:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/acorn_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/acorn_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
     
 }
 
 a.bobrick:link {
-	background-image: url('../images/bobrick_bw.png');	 
+	background-image: url('../images/bobrick_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.bobrick:hover {
-	background-image: url('../images/bobrick_color.png');	 
+	background-image: url('../images/bobrick_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.bobrick:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/bobrick_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/bobrick_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;     
 }
 
 a.dssvalve:link {
-	background-image: url('../images/dssvalve_bw.png');	 
+	background-image: url('../images/dssvalve_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.dssvalve:hover {
-	background-image: url('../images/dssvalve_color.png');	 
+	background-image: url('../images/dssvalve_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.dssvalve:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/dssvalve_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/dssvalve_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;     
 }
 
 
 a.elmdor:link {
-	background-image: url('../images/elmdor_bw.png');	 
+	background-image: url('../images/elmdor_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.elmdor:hover {
-	background-image: url('../images/elmdor_color.png');	 
+	background-image: url('../images/elmdor_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.elmdor:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/elmdor_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/elmdor_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.gamco:link {
-	background-image: url('../images/gamco_bw.png');	 
+	background-image: url('../images/gamco_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.gamco:hover {
-	background-image: url('../images/gamco_color.png');	 
+	background-image: url('../images/gamco_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.gamco:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/gamco_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/gamco_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 
 a.ipex:link {
-	background-image: url('../images/ipex_bw.png');	 
+	background-image: url('../images/ipex_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.ipex:hover {
-	background-image: url('../images/ipex_color.png');	 
+	background-image: url('../images/ipex_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.ipex:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/ipex_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/ipex_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.just:link {
-	background-image: url('../images/just_bw.png');	 
+	background-image: url('../images/just_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.just:hover {
-	background-image: url('../images/just_color.png');	 
+	background-image: url('../images/just_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.just:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/just_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/just_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.koala:link {
-	background-image: url('../images/koala_bw.png');	 
+	background-image: url('../images/koala_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.koala:hover {
-	background-image: url('../images/koala_color.png');	 
+	background-image: url('../images/koala_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.koala:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/koala_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/koala_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.murdock:link {
-	background-image: url('../images/murdock_bw.png');	 
+	background-image: url('../images/murdock_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.murdock:hover {
-	background-image: url('../images/murdock_color.png');	 
+	background-image: url('../images/murdock_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.murdock:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/murdock_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/murdock_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 
 a.ppp:link {
-	background-image: url('../images/ppp_bw.png');	 
+	background-image: url('../images/ppp_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.ppp:hover {
-	background-image: url('../images/ppp_color.png');	 
+	background-image: url('../images/ppp_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.ppp:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/ppp_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/ppp_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.sloan:link {
-	background-image: url('../images/sloan_bw.png');	 
+	background-image: url('../images/sloan_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.sloan:hover {
-	background-image: url('../images/sloan_color.png');	 
+	background-image: url('../images/sloan_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.msloan:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/sloan_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/sloan_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.smith:link {
-	background-image: url('../images/smith_bw.png');	 
+	background-image: url('../images/smith_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.smith:hover {
-	background-image: url('../images/smith_color.png');	 
+	background-image: url('../images/smith_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.smith:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/smith_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/smith_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 a.smithaco:link {
-	background-image: url('../images/smithaco_bw.png');	 
+	background-image: url('../images/smithaco_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.smithaco:hover {
-	background-image: url('../images/smithaco_color.png');	 
+	background-image: url('../images/smithaco_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.smithaco:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/smithaco_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/smithaco_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.symmons:link {
-	background-image: url('../images/symmons_bw.png');	 
+	background-image: url('../images/symmons_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.symmons:hover {
-	background-image: url('../images/symmons_color.png');	 
+	background-image: url('../images/symmons_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.symmons:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/symmons_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/symmons_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.tsbrass:link {
-	background-image: url('../images/tsbrass_bw.png');	 
+	background-image: url('../images/tsbrass_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.tsbrass:hover {
-	background-image: url('../images/tsbrass_color.png');	 
+	background-image: url('../images/tsbrass_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.tsbrass:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/tsbrass_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/tsbrass_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.tyler:link {
-	background-image: url('../images/tyler_bw.png');	 
+	background-image: url('../images/tyler_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.tyler:hover {
-	background-image: url('../images/tyler_color.png');	 
+	background-image: url('../images/tyler_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.tyler:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/tyler_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/tyler_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }
 
 a.whitehall:link {
-	background-image: url('../images/whitehall_bw.png');	 
+	background-image: url('../images/whitehall_bw.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.whitehall:hover {
-	background-image: url('../images/whitehall_color.png');	 
+	background-image: url('../images/whitehall_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center; 
 }
 
 a.whitehall:active {
-	background-color: #e5e5e5; 
-	background-image: url('../images/whitehall_color.png');	 
+	border: 1px solid red; 
+	background-image: url('../images/whitehall_color.jpg');	 
 	background-repeat: no-repeat;
 	background-position: left 30px center;    
 }

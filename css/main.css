@@ -30,13 +30,13 @@ p {
 
 #listwrapper {
 	margin: auto;	
-	width: 625px;
+	width: 552px;
 	margin-top: 50px; 
 }
 
 section {
 	
-	width: 620px;	
+	width: 550px;	
 	margin: 0px;
 	padding: 0px;	
 	border-radius: 20px; 
@@ -58,8 +58,7 @@ a.section-anchor {
 a.section-anchor:hover {
 	color: blue;
 	text-decoration: underline;
-	background-color: #fff;
-	border: 1px dotted gray;
+	border: 1px dotted blue;
 	border-radius: 20px;  
 	height: 100%;
 }
