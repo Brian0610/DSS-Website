@@ -1,0 +1,13 @@
+
+#comstock{
+	width: 300px; 
+	height: 300px;
+	border: 2px solid blue; 
+	margin: auto;
+
+}
+
+iframe {
+	width: 300px; 
+	height: 300px; 
+}
